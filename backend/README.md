@@ -33,7 +33,7 @@ cd backend
 
 ### 2. application-server.yml 작성(아래의 파일 참조) 및 requirement 충족
 
-```
+``` yml
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
